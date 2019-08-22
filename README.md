@@ -7,3 +7,5 @@
 ![Alt Text](https://github.com/divamaretta/jobsheet/blob/master/Screenshot%20(50).png)
 # operator bitwise 
 ![Alt Text](https://github.com/divamaretta/jobsheet/blob/master/Screenshot%20(51).png)
+# operator unary
+![Alt Text](https://github.com/divamaretta/jobsheet/blob/master/Screenshot%20(52).png)
