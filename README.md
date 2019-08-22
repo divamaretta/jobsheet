@@ -6,4 +6,4 @@
 # operator aritmatika2
 ![Alt Text](https://github.com/divamaretta/jobsheet/blob/master/Screenshot%20(50).png)
 # operator bitwise 
-! [Alt Text] (https://github.com/divamaretta/jobsheet/blob/master/Screenshot%20(51).png)
+![Alt Text](https://github.com/divamaretta/jobsheet/blob/master/Screenshot%20(51).png)
