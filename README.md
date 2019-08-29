@@ -13,9 +13,6 @@
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/1.png)
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/2.png)
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/3.png)
-![Alt text](https://github.com/divamaretta/jobsheet/blob/master/a.png)
-![Alt text](https://github.com/divamaretta/jobsheet/blob/master/b.png)
-![Alt text](https://github.com/divamaretta/jobsheet/blob/master/c.png)
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%203%20(2).png)
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%205%20(2).png)
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%201%20(3).png)
@@ -27,3 +24,7 @@
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%207%20(3).png)
 # saran bahan makanan
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/saranbahanmakanan.png)
+# pembayaran listrik
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/a.png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/b.png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/c.png)
