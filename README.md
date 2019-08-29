@@ -25,6 +25,5 @@
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%205%20(3).png)
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%206(3).png)
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%207%20(3).png)
-![Alt text]
-![Alt text]
-![Alt text]
+#saran bahan makanan
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/saranbahanmakanan.png)
