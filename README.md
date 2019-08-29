@@ -11,3 +11,5 @@
 ![Alt Text](https://github.com/divamaretta/jobsheet/blob/master/Screenshot%20(52).png)
 # jobsheet percabangan 1
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/1.png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/2.png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/3.png
