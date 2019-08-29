@@ -18,3 +18,13 @@
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/c.png)
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%203%20(2).png)
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%205%20(2).png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%201%20(3).png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%202%20(3).png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%203%20(3).png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%204%20(3).png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%205%20(3).png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%206(3).png)
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/nilai%20a%207%20(3).png)
+![Alt text]
+![Alt text]
+![Alt text]
