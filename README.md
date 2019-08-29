@@ -9,3 +9,5 @@
 ![Alt Text](https://github.com/divamaretta/jobsheet/blob/master/Screenshot%20(51).png)
 # operator unary
 ![Alt Text](https://github.com/divamaretta/jobsheet/blob/master/Screenshot%20(52).png)
+# jobsheet percabangan 1
+! [Alt text] (https://github.com/divamaretta/jobsheet/blob/master/1.png)
