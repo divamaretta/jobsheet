@@ -12,4 +12,4 @@
 # jobsheet percabangan 1
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/1.png)
 ![Alt text](https://github.com/divamaretta/jobsheet/blob/master/2.png)
-![Alt text](https://github.com/divamaretta/jobsheet/blob/master/3.png
+![Alt text](https://github.com/divamaretta/jobsheet/blob/master/3.png)
